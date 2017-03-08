@@ -15,23 +15,23 @@
 -->
 <resources>
     <!-- Primary color of the app (shown in the app bar) -->
-    <color name="primary_color">#4A312A</color>
+    <color name="primary_color">#0277BD</color>
 
     <!-- Primary dark color of the app (shown in the status bar) -->
-    <color name="primary_dark_color">#2F1D1A</color>
+    <color name="primary_dark_color">#01579B</color>
 
     <!-- Background color for app -->
-    <color name="tan_background">#FFF7DA</color>
+    <color name="tan_background">#4FC3F7</color>
 
     <!-- Background color for the museums category -->
-    <color name="category_museums">#D32F2F</color>
+    <color name="category_museums">#4FC3F7</color>
 
     <!-- Background color for the parks category -->
-    <color name="category_parks">#FFEB3B</color>
+    <color name="category_parks">#81D4FA</color>
 
     <!-- Background color for the pubs category -->
-    <color name="category_pubs">#D32F2F</color>
+    <color name="category_pubs">#4FC3F7</color>
 
     <!-- Background color for the shopping centers category -->
-    <color name="category_shopping_centers">#B6B6B6</color>
+    <color name="category_shopping_centers">#81D4FA</color>
 </resources>
