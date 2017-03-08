@@ -1,0 +1,72 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Category name for shopping centers [CHAR LIMIT=20] -->
+    <string name="category_shopping_centers">Shopping Centers</string>
+
+    <!-- Category name for pubs [CHAR LIMIT=20] -->
+    <string name="category_pubs">Pubs</string>
+
+    <!-- Category name for for museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for parks [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+
+
+    <!-- Museum names [CHAR LIMIT=30]-->
+    <string name="museo_del_prado">Prado museum</string>
+    <string name="museo_thyssen_bornemisza">Thyssen-Bornemisza museum</string>
+    <string name="museo_ciencias_naturales">Natural science museum</string>
+    <string name="museo_arqueologico">Archaeological museum</string>
+    <string name="museo_del_tren">Trains museum</string>
+
+    <!-- Park names [CHAR LIMIT=30] -->
+    <string name="parque_campo_naciones">Nations park</string>
+    <string name="parque_capricho">El Capricho</string>
+    <string name="parque_casa_de_campo">Campo park</string>
+    <string name="parque_europa">European park</string>
+    <string name="parque_madrid_rio">Madrid Rio</string>
+    <string name="parque_retiro">El Retiro</string>
+
+    <!-- Pub names [CHAR LIMIT=30] -->
+    <string name="pub_el_abuelo">Pub El Abuelo</string>
+    <string name="pub_el_invento">El Invento Pub</string>
+    <string name="pub_lo_interesante" >Lo Interesante Pub</string>
+    <string name="pub_the_old_pub">The old pub</string>
+
+    <!-- Shopping centers names [CHAR LIMIT=30] -->
+
+    <string name="centro_comercial_el_corte_ingles">El Corte Inglés</string>
+    <string name="centro_comercial_hipercor">Hipercor</string>
+    <string name="centro_comercial_parquesur">Parquesur Mall</string>
+    <string name="centro_comercial_poly">Poly Mall</string>
+
+    <!-- Days names [CHAR LIMIT-15] -->
+    <string name="day_monday">Monday</string>
+    <string name="day_tuesday">Tuesday</string>
+    <string name="day_wednesday">Wednesday</string>
+    <string name="day_thursday">Thursday</string>
+    <string name="day_friday">Friday</string>
+    <string name="day_saturday">Saturday</string>
+    <string name="day_sunday">Sunday</string>
+
+    <!-- String for the hash separator -->
+    <string name="hash">-</string>
+
+</resources>
