@@ -1,7 +1,7 @@
 # Tour Guide
 This repository contains the 'Tour Guide' project of the Udacity's [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803).
 
-![TOur Guide cover](https://github.com/miguelangel/android-basics-nanodegree--tour-guide/raw/master/cover.png)
+![Tour Guide cover](https://github.com/miguelangel/android-basics-nanodegree--tour-guide/raw/master/cover.png)
 
 ##Project Overview
 This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making your own multi-screen Android app to share your knowledge about a city you are very familiar with.
